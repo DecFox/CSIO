@@ -1,8 +1,8 @@
-TNO_Image_Fusion_Dataset/
-lib/
+TNO_Image_Fusion_Dataset
+lib
 lib64
-share/
-include/
-bin/
+share
+include
+bin
 pyvenv.cfg
 saved.bmp
