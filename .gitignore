@@ -6,3 +6,4 @@ include
 bin
 pyvenv.cfg
 saved.bmp
+testing.ipynb
